@@ -1,8 +1,8 @@
 ---
-title: "My Python Package!"
+title: "The Triathlon Python Package"
 ---
 
-Here is a website all about my package for STAT 386!
+Triathlon results are packed with information about performance, but the raw data is often inconsistent and hard to analyze. This project is a Python package that collects, cleans, and analyzes triathlon split times to produce clear metrics and visuals across swim, bike, and run, with an accompanying Streamlit app for interactive exploration.
 
 Documentation [here](Documentation.qmd).
 
