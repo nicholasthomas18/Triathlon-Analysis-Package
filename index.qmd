@@ -12,4 +12,3 @@ Documentation [here](Documentation.qmd).
 Access the streamlit app [here](https://triathlon-analysis-package-pbqssb8v5nr29qhab3mggh.streamlit.app/).
 
 Review the [technical report](TechnicalReport.qmd).
-
